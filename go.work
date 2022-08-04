@@ -1,0 +1,12 @@
+go 1.18
+
+use ./develop/dev01
+use ./develop/dev02
+use ./develop/dev03
+use ./develop/dev04
+use ./develop/dev05
+use ./develop/dev06
+use ./develop/dev07
+use ./develop/dev09
+use ./develop/dev10
+use ./develop/dev11
